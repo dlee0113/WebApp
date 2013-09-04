@@ -1,0 +1,12 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@taglib prefix="eg" uri="customTag" %>
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Test Custom Tag - Hello</title>
+   </head>
+   <body>
+      <eg:hello />
+   </body>
+</html>
